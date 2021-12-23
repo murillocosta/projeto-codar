@@ -1,4 +1,5 @@
-# projeto-codar
+# Projeto Codar
+
 Repositório criado para o desenvolvimento de uma página web como proposta de desafio do DevChallenge.
 
 link para o site: https://devchallenge.vercel.app/
