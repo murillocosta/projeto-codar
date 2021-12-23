@@ -44,7 +44,6 @@ nav a {
 
 
 body {
-    width: 98.953vw;
     width: 98.968vw;
     font-family: 'Roboto', sans-serif;
     
@@ -307,7 +306,7 @@ aside {
 }
 
 .maria {
-    margin-top: 3vh;
+    margin-top: 3.0vh;
 }
 
 }
