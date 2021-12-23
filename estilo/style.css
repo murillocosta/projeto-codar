@@ -71,12 +71,14 @@ a {
     width: 220px;
     height: 200px;
 }
-
-a:visited {
+nav a:visited, nav a:active {
+    color: black;
+}
+a:visited, a:active {
     color: black;
 }
 
-a.login:visited {
+a.login:visited, a.login:active {
     color: white;
 
 }
