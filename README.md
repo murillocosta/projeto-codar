@@ -2,7 +2,7 @@
 
 Repositório criado para o desenvolvimento de uma página web como proposta de desafio do DevChallenge.
 
-Design criado com framework Bulma.
+Design criado com framework [Bulma](https://github.com/jgthms/bulma).
 
 link para o site: https://devchallenge.vercel.app/
 
